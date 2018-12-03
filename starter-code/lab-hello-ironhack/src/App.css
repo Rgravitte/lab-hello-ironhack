@@ -1,0 +1,101 @@
+.App {
+  /* text-align: center; */
+}
+
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 8vmin;
+  /* float: left; */
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  color: white;
+}
+
+.App-header div{
+  margin-left: 15px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-header nav{
+  display: flex;
+  height: 150px;
+  align-items: center;
+  margin-left: 15px;
+}
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+.header-holder{
+  /* float: left; */
+  width: 590px;
+}
+.header-holder p{
+  font-size: 25px;
+  width: 50%;
+  font-weight: lighter;
+}
+.header-react{
+  font-size: 80px;
+  margin-bottom: 0px;
+  float: left;
+}
+
+.awesome-button{
+  margin-top: 50px;
+  background-color: white;
+  color: black;
+  width: 200px;
+  height: 70px;
+  border-radius: 7px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.woah-holder div span {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  color: gray;
+  margin-bottom: 100px;
+
+}
+
+.woah-holder div{
+  width: 23vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.woah-holder div h2{
+  text-align: center;
+}
+
+.woah-holder div img{
+  display: flex;
+  width: 50%;
+}
+
+.woah-holder{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 25px;
+}
