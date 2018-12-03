@@ -42,22 +42,22 @@
     transform: rotate(360deg);
   }
 } */
-.header-holder{
+.Header-holder{
   /* float: left; */
   width: 590px;
 }
-.header-holder p{
+.Header-holder p{
   font-size: 25px;
   width: 50%;
   font-weight: lighter;
 }
-.header-react{
+.Header-react{
   font-size: 80px;
   margin-bottom: 0px;
   float: left;
 }
 
-.awesome-button{
+.Awesome-button{
   margin-top: 50px;
   background-color: white;
   color: black;
@@ -68,7 +68,7 @@
   font-weight: bolder;
 }
 
-.woah-holder div span {
+.Woah-holder div span {
   width: 70%;
   display: flex;
   flex-direction: column;
@@ -77,7 +77,7 @@
 
 }
 
-.woah-holder div{
+.Woah-holder div{
   width: 23vw;
   display: flex;
   flex-direction: column;
@@ -85,16 +85,16 @@
   align-items: center;
 }
 
-.woah-holder div h2{
+.Woah-holder div h2{
   text-align: center;
 }
 
-.woah-holder div img{
+.Woah-holder div img{
   display: flex;
   width: 50%;
 }
 
-.woah-holder{
+.Woah-holder{
   display: flex;
   justify-content: space-evenly;
   margin-left: 25px;
